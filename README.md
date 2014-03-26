@@ -23,3 +23,10 @@ What the script is doing is sniffing for the user-agent and when a match is made
 ### jQuery Toggle Table
 
 This is something Smashing has been using for quite a while now to hide and reveal table contents on click.
+
+### Picturefill & Matchmedia
+
+To know all there is about both of those wonderful Javascript files I'd say you go directly to the creators' repos. Give those guys a nice pat on the back, when you're there, they are awesome.
+
+[Picturefill](https://github.com/scottjehl/picturefill) by Scott Jehl
+[MatchMedia](https://github.com/paulirish/matchMedia.js) by Paul Irish
