@@ -1,13 +1,13 @@
 /**
- * This script searches for the tables with the class 'reporttable'
+ * This script searches for the tables with the class 'toggletable'
  * so that every second td-element in those tables can act like an accordeon
  *
  * Author: Thomas Herzog
  */
-for ( var i = 0; i < document.querySelectorAll( '.reporttable' ).length; i++ ) {
+for ( var i = 0; i < document.querySelectorAll( '.toggletable' ).length; i++ ) {
 
   // get the id of the current table
-  var table_id = document.querySelectorAll( '.reporttable' )[i].id;
+  var table_id = document.querySelectorAll( '.toggletable' )[i].id;
 
   // walk through the tr elements
   for ( var tri = 0; tri < document.querySelectorAll( '#' + table_id + ' tr' ).length; tri++ ) {

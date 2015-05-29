@@ -1,5 +1,6 @@
 /**
  * Appended loading of a print stylesheet
+ *
  */
 var ps = document.createElement('link');
 ps.type = 'text/css';

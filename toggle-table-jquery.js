@@ -1,7 +1,7 @@
 $(function() {
 
-	// Each table with a certain classname
-	$.each($(".classname"), function(index, value) {
+	// Each table with the class "toggletable"
+	$.each($(".toggletable"), function(index, value) {
 
 		// get the ID of any of those tables
 		var table_id = this.id;
@@ -20,7 +20,7 @@ $(function() {
 
 			// toggle the visibility of that tr's not being odd
 			$(this).next("tr").toggle();
-			
+
 		});
 	});
 });

@@ -29,3 +29,5 @@ This is something Smashing has been using for quite a while now to hide and reve
 To know all there is about both of those wonderful Javascript files I'd say you go directly to the creators' repos. Give those guys a nice pat on the back, when you're there, they are awesome.
 
 Here are the links to [Picturefill](https://github.com/scottjehl/picturefill) by Scott Jehl and [MatchMedia](https://github.com/paulirish/matchMedia.js) by Paul Irish
+
+Updated Picturefill to version 2.3.1: http://scottjehl.github.io/picturefill
